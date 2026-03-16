@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Lixin Zhan obtained the M.S. degree in computer technology from Nanchang University in 2024, advised by Weidong Min <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://baike.baidu.com/item/%E9%97%B5%E5%8D%AB%E4%B8%9C/58072093)'> and Wei Li <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://teacher.ncu.edu.cn/publish/092744/)'>. He is currently pursuing a Ph.D. degree at National University of Defense Technology, China. His research interests include 3D computer vision and deep learning. In the last few years, he has published over 10 papers in leading machine learning conferences and journals, including AAAI, IEEE TCSVT, IEEE TGRS, and IEEE TITS. He was a reviewer for leading journals or conferences, e.g. AAAI, IEEE TII, and ICME.
+Lixin Zhan obtained the M.S. degree in computer technology from Nanchang University in 2024, advised by Weidong Min <a href='https://baike.baidu.com/item/%E9%97%B5%E5%8D%AB%E4%B8%9C/58072093'> and Wei Li <a href='https://teacher.ncu.edu.cn/publish/092744/'>. He is currently pursuing a Ph.D. degree at National University of Defense Technology, China. His research interests include 3D computer vision and deep learning. In the last few years, he has published over 10 papers in leading machine learning conferences and journals, including AAAI, IEEE TCSVT, IEEE TGRS, and IEEE TITS. He was a reviewer for leading journals or conferences, e.g. AAAI, IEEE TII, and ICME.
 
 
 # 🔥 News
@@ -33,20 +33,24 @@ Lixin Zhan obtained the M.S. degree in computer technology from Nanchang Univers
 
 [SR]
 Unsupervised Domain Adaptation Teacher-Student Network for Retinal Vessel Segmentation via Full-Resolution Refined Model
+
 Kejuan Yue, **Lixin Zhan***, and Zheng Wang. Scientific Reports, 2025.
 
-## Point Cloud Segmentation
+## 3D Computer Vision
 
 [AAAI2026] 
 P-SLCR: Unsupervised Point Cloud Semantic Segmentation via Prototypes Structure Learning and Consistent Reasoning
+
 **Lixin Zhan**, Jie Jiang, Tianjian Zhou, Yukun Du, Yan Zheng, and Xuehu Duan. The Fortieth AAAI Conference on Artificial Intelligence (AAAI), 2026.
 
 [TCSVT]
 BGC-Net：Bilateral Graph Convolutional Network for Weak-supervised Semantic Segmentation of Large-scale Point Clouds
+
 **Lixin Zhan**, Yukun Du, Jie Jiang, Yingmei Wei, Tianjian Zhou, and Ziyuan Yang. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025.
 
 [TGRS]
 QPCR: Weakly-supervised Semantic Segmentation of Large-scale Point Cloud via Gradual Query Points Component Reasoning
+
 **Lixin Zhan**, Wei Li, Jie Jiang, Tianjian Zhou, Chenglu Wen, and Cheng Wang. IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024.
 
 [KBS]
@@ -55,10 +59,12 @@ Bowen Zhou, Lixin Zhan*, and Jie Jiang. Knowledge-Based Systems (KBS), 2025.
 
 [JAG]
 FA-ResNet: Feature affine residual network for large-scale point cloud segmentation
+
 **Lixin Zhan**, Wei Li, and Weidong Min. International Journal of Applied Earth Observation and Geoinformation (JAG), 2023.
 
 [GRSL]
 Semantic Segmentation of Point Cloud With Novel Neural Radiation Field Convolution
+
 Wei Li, **Lixin Zhan***, Weidong Min, Yi Zou, Zheng Huang, and Chenglu Wen. IEEE Geoscience and Remote Sensing Letters, 2023.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
