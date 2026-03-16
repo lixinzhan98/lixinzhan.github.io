@@ -33,6 +33,7 @@ Lixin Zhan obtained the M.S. degree in computer technology from Nanchang Univers
 
 
 # 📝 Publications 
+Please find my full paper list at my [**Google Scholar**](https://scholar.google.com/citations?user=RUbQNU4AAAAJ&hl=zh-CN&authuser=1).
 
 \# : joint first author   \* :corresponding author
 
