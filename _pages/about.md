@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-
+# About Me 
 Lixin Zhan obtained the M.S. degree in computer technology from Nanchang University in 2024, advised by [**Weidong Min**](https://baike.baidu.com/item/%E9%97%B5%E5%8D%AB%E4%B8%9C/58072093) and [**Wei Li**](https://teacher.ncu.edu.cn/publish/092744/). He is currently pursuing a Ph.D. degree at National University of Defense Technology, China. His research interests include 3D computer vision and deep learning. In the last few years, he has published over 10 papers in leading machine learning conferences and journals, including AAAI, IEEE TCSVT, IEEE TGRS, and IEEE TITS. He was a reviewer for leading journals or conferences, e.g. AAAI, IEEE TII, and ICME.
 
 
