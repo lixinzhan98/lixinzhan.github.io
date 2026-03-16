@@ -32,7 +32,7 @@ Lixin Zhan obtained the M.S. degree in computer technology from Nanchang Univers
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS!
 
 
-# 📝 Selected Publications 
+# 📝 Publications 
 
 \# : joint first author   \* :corresponding author
 
