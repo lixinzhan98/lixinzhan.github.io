@@ -23,14 +23,18 @@ Lixin Zhan obtained the M.S. degree in computer technology from Nanchang Univers
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11*: &nbsp;🎉🎉 One paper is accepted by IEEE TITS! Congrats to Ruoli! 
+- *2025.11*: &nbsp;🎉🎉 Two papers is accepted by AAAI2026! Congrats to Yukun! 
+- *2025.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TCSVT!
+- *2025.08*: &nbsp;🎉🎉 One paper is accepted by KBS! Congrats to Bowen!
+- *2025.03*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS! Congrats to Xuehu!
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted by SR! Congrats to Prof. Yue!
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS!
 
-# 📝 Publications 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
-(* joint first author)
+(* joint first author)  # 
 
 ## Medical Image Segmentation
 
@@ -50,7 +54,7 @@ Lixin Zhan obtained the M.S. degree in computer technology from Nanchang Univers
 
 * **[GRSL] Semantic Segmentation of Point Cloud With Novel Neural Radiation Field Convolution** Wei Li, **Lixin Zhan***, Weidong Min, Yi Zou, Zheng Huang, and Chenglu Wen. *IEEE Geoscience and Remote Sensing Letters*, 2023.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -62,23 +66,30 @@ Lixin Zhan obtained the M.S. degree in computer technology from Nanchang Univers
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.12* National Scholarship (Ph.D). 
+- *2023.12* National Scholarship (M.E.). 
+
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - now*, Ph.D., Control Science & Engineering, National University of Defense Technology, Changsha, China. 
+- *2021.06 - 2024.06*, M.E., Computer Science, Nanchang University, Nanchang, China.
+- *2017.09 - 2021.06*, B.E., Computer Science, Hunan First Normal University, Changsha, China. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 ACTIVITIES
+## Reviewer
+- *IEEE Transactions on Industrial Informatics*
+- *The Visual Computer*
+- *ICML, 2026*
+- *AAAI, 2026*
+- *ICME, 2025-2026*
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-
+# 💻 Funding
+- *2026 - 2028*, Youth Student Basic Research Program of the Hunan Provincial Natural Science Foundation, Toward 3D Semantic Perception with Limited Annotations in Open Environments, $50000 CNY, PI.
+- *2025 - 2027*, Postgraduate Research Innovation Program of Hunan Province, Research Technologies for Semantic Understanding of 3D Scenes under Sparse Supervision, $30000 CNY, PI.
 
 
 
