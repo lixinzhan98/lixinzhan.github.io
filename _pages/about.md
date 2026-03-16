@@ -34,7 +34,7 @@ Lixin Zhan obtained the M.S. degree in computer technology from Nanchang Univers
 
 # 📝 Selected Publications 
 
-* joint first author  \# corresponding author
+\* joint first author  \# corresponding author
 
 ## Medical Image Segmentation
 
@@ -52,7 +52,7 @@ Lixin Zhan obtained the M.S. degree in computer technology from Nanchang Univers
 
 * **[JAG] FA-ResNet: Feature affine residual network for large-scale point cloud segmentation** **Lixin Zhan**, Wei Li, and Weidong Min. *International Journal of Applied Earth Observation and Geoinformation (JAG)*, 2023.
 
-* **[GRSL] Semantic Segmentation of Point Cloud With Novel Neural Radiation Field Convolution** Wei Li, **Lixin Zhan\#**, Weidong Min, Yi Zou, Zheng Huang, and Chenglu Wen. *IEEE Geoscience and Remote Sensing Letters*, 2023.
+* **[GRSL] Semantic Segmentation of Point Cloud With Novel Neural Radiation Field Convolution** Wei Li, **Lixin Zhan \* **, Weidong Min, Yi Zou, Zheng Huang, and Chenglu Wen. *IEEE Geoscience and Remote Sensing Letters*, 2023.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
