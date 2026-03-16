@@ -34,11 +34,11 @@ Lixin Zhan obtained the M.S. degree in computer technology from Nanchang Univers
 
 # 📝 Selected Publications 
 
-(* joint first author)  # 
+* joint first author  # corresponding author
 
 ## Medical Image Segmentation
 
-* **[SR] Unsupervised Domain Adaptation Teacher-Student Network for Retinal Vessel Segmentation via Full-Resolution Refined Model** Kejuan Yue, **Lixin Zhan***, and Zheng Wang. *Scientific Reports*, 2025.
+* **[SR] Unsupervised Domain Adaptation Teacher-Student Network for Retinal Vessel Segmentation via Full-Resolution Refined Model** Kejuan Yue, **Lixin Zhan* **, and Zheng Wang. *Scientific Reports*, 2025.
 
 ## 3D Computer Vision
 
