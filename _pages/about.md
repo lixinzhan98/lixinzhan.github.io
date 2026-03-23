@@ -43,17 +43,23 @@ Please find my full paper list at my [**Google Scholar**](https://scholar.google
 
 ## 3D Computer Vision
 
-* **[AAAI2026] P-SLCR: Unsupervised Point Cloud Semantic Segmentation via Prototypes Structure Learning and Consistent Reasoning** **Lixin Zhan**, Jie Jiang, Tianjian Zhou, Yukun Du, Yan Zheng, and Xuehu Duan. *The Fortieth AAAI Conference on Artificial Intelligence (AAAI)*, 2026.
+* **[AAAI2026] P-SLCR: Unsupervised Point Cloud Semantic Segmentation via Prototypes Structure Learning and Consistent Reasoning**
+* **Lixin Zhan**, Jie Jiang, Tianjian Zhou, Yukun Du, Yan Zheng, and Xuehu Duan. *The Fortieth AAAI Conference on Artificial Intelligence (AAAI)*, 2026.
 
-* **[TCSVT] BGC-Net: Bilateral Graph Convolutional Network for Weak-supervised Semantic Segmentation of Large-scale Point Clouds** **Lixin Zhan**, Yukun Du, Jie Jiang, Yingmei Wei, Tianjian Zhou, and Ziyuan Yang. *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, 2025.
+* **[TCSVT] BGC-Net: Bilateral Graph Convolutional Network for Weak-supervised Semantic Segmentation of Large-scale Point Clouds**
+* **Lixin Zhan**, Yukun Du, Jie Jiang, Yingmei Wei, Tianjian Zhou, and Ziyuan Yang. *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, 2025.
 
-* **[TGRS] QPCR: Weakly-supervised Semantic Segmentation of Large-scale Point Cloud via Gradual Query Points Component Reasoning** **Lixin Zhan**, Wei Li, Jie Jiang, Tianjian Zhou, Chenglu Wen, and Cheng Wang. *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2024.
+* **[TGRS] QPCR: Weakly-supervised Semantic Segmentation of Large-scale Point Cloud via Gradual Query Points Component Reasoning**
+* **Lixin Zhan**, Wei Li, Jie Jiang, Tianjian Zhou, Chenglu Wen, and Cheng Wang. *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2024.
 
-* **[KBS] LFE-PointMamba: Point Cloud Learning via Local Feature Enhancement and State Space Model** Bowen Zhou, **Lixin Zhan**\#, and Jie Jiang. *Knowledge-Based Systems (KBS)*, 2025.
+* **[KBS] LFE-PointMamba: Point Cloud Learning via Local Feature Enhancement and State Space Model**
+* Bowen Zhou, **Lixin Zhan**\#, and Jie Jiang. *Knowledge-Based Systems (KBS)*, 2025.
 
-* **[JAG] FA-ResNet: Feature affine residual network for large-scale point cloud segmentation** **Lixin Zhan**, Wei Li, and Weidong Min. *International Journal of Applied Earth Observation and Geoinformation (JAG)*, 2023.
+* **[JAG] FA-ResNet: Feature affine residual network for large-scale point cloud segmentation**
+* **Lixin Zhan**, Wei Li, and Weidong Min. *International Journal of Applied Earth Observation and Geoinformation (JAG)*, 2023.
 
-* **[GRSL] Semantic Segmentation of Point Cloud With Novel Neural Radiation Field Convolution** Wei Li, **Lixin Zhan**\#, Weidong Min, Yi Zou, Zheng Huang, and Chenglu Wen. *IEEE Geoscience and Remote Sensing Letters*, 2023.
+* **[GRSL] Semantic Segmentation of Point Cloud With Novel Neural Radiation Field Convolution**
+* Wei Li, **Lixin Zhan**\#, Weidong Min, Yi Zou, Zheng Huang, and Chenglu Wen. *IEEE Geoscience and Remote Sensing Letters*, 2023.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
