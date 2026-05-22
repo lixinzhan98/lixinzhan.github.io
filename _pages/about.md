@@ -46,13 +46,13 @@ Please find my full paper list at my [**Google Scholar**](https://scholar.google
 
 ## 3D Computer Vision
 
-* **[AAAI2026] P-SLCR: Unsupervised Point Cloud Semantic Segmentation via Prototypes Structure Learning and Consistent Reasoning**
+* **[AAAI2026] P-SLCR: Unsupervised Point Cloud Semantic Segmentation via Prototypes Structure Learning and Consistent Reasoning**<br>
  **Lixin Zhan**, Jie Jiang, Tianjian Zhou, Yukun Du, Yan Zheng, and Xuehu Duan. *The Fortieth AAAI Conference on Artificial Intelligence (AAAI)*, 2026.
 
-* **[TCSVT] BGC-Net: Bilateral Graph Convolutional Network for Weak-supervised Semantic Segmentation of Large-scale Point Clouds**
+* **[TCSVT] BGC-Net: Bilateral Graph Convolutional Network for Weak-supervised Semantic Segmentation of Large-scale Point Clouds**<br>
   **Lixin Zhan**, Yukun Du, Jie Jiang, Yingmei Wei, Tianjian Zhou, and Ziyuan Yang. *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, 2025.
 
-* **[TGRS] QPCR: Weakly-supervised Semantic Segmentation of Large-scale Point Cloud via Gradual Query Points Component Reasoning**
+* **[TGRS] QPCR: Weakly-supervised Semantic Segmentation of Large-scale Point Cloud via Gradual Query Points Component Reasoning**<br>
  **Lixin Zhan**, Wei Li, Jie Jiang, Tianjian Zhou, Chenglu Wen, and Cheng Wang. *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2024.
 
 * **[KBS] LFE-PointMamba: Point Cloud Learning via Local Feature Enhancement and State Space Model**
