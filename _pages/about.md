@@ -46,6 +46,12 @@ Please find my full paper list at my [**Google Scholar**](https://scholar.google
 
 ## 3D Computer Vision
 
+* **[ICML2026] Rh-3DGS: Robust Open-Vocabulary Scene Understanding via Riemannian Huber Distillation and Manifold-Aware Sampling**<br>
+  Xinpeng Zhao, Jiang Jie, Fengyuan Zhang, **Lixin Zhan**, Dong Wang, Qinyuan Bu, Jiahangtu, Guangzhen Yao. *International Conference on Machine Learning (ICML)*, 2026.
+  
+* **[IJCAI2026] SpecBridge: Spectral Graph Bridging for 3D-2D-Text Pre-training**<br>
+  Dong Wang , Jie Jiang, Weidong Min , **Lixin Zhan** , Xinpeng Zhao , Ze Zhang. *International Joint Conference on Artificial Intelligence (IJCAI)*, 2026.
+  
 * **[AAAI2026] P-SLCR: Unsupervised Point Cloud Semantic Segmentation via Prototypes Structure Learning and Consistent Reasoning**<br>
  **Lixin Zhan**, Jie Jiang, Tianjian Zhou, Yukun Du, Yan Zheng, and Xuehu Duan. *The Fortieth AAAI Conference on Artificial Intelligence (AAAI)*, 2026.
 
